@@ -1334,5 +1334,9 @@
         "addresses": [
             "certix.cc"
         ]
-    }
-]
+    },
+    {    
+        "id": "orinooby",
+        "name": "orinooby network",
+        "addresses": [
+            "orinooby.aquatis.io"
